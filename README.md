@@ -1,6 +1,6 @@
 # 🏆NCAE CyberGames Competition 2025
 
-This repository documents the preparation, strategy, and hardening efforts that I led as **Captain of a 10-person team** during the NCAE CyberGames competition in Spring 2025.
+This repository documents part of the preparation, strategy, and technical efforts that I led as **Captain of a 10-person team** during the NCAE CyberGames competition in Spring 2025.
 
 ## 🏁 Results
 
